@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class propellerController : MonoBehaviour
 {
-    private float speed = 5000.0f;
+    private float speed = 1000.0f;
     // Start is called before the first frame update
     void Start()
     {
